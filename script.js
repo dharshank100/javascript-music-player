@@ -27,35 +27,53 @@ let track = document.createElement('audio');
 //All songs list
 let All_song = [
    {
-     name: "Thatan",
+     name: "Thattaan",
      path: "music/thatan.mp3",
      img: "img/img1.jpg",
-     singer: "Aathi"
+     singer: "Karnan"
    },
    {
      name: "Munbe",
      path: "music/munbe vaa.mp3",
      img: "img/img2.jpg",
-     singer: "Aathi"
+     singer: "SOK"
    },
    {
      name: "Kanave",
      path: "music/kanave.mp3",
      img: "img/img3.jpg",
-     singer: "Aathi"
+     singer: "KKK"
    },
    {
-     name: "uyrin",
+     name: "uyirin",
      path: "music/uyrin uyire.mp3",
      img: "img/img4.jpg",
-     singer: "Aathi"
+     singer: "KK"
    },
    {
      name: "yedho",
      path: "music/yedho ondru.mp3",
      img: "img/img5.jpg",
-     singer: "Aathi"
-   }
+     singer: "Lesa Lesa"
+   },
+   {
+	name: "Visiri",
+	path: "music/edhuvarai cover.mp3",
+	img: "img/img5.jpg",
+	singer: "ENPT"
+  },
+  {
+	name: "Kanmani",
+	path: "music/kanmani.mp3",
+	img: "img/img5.jpg",
+	singer: "Gunaa"
+  },
+  {
+	name: "Annal",
+	path: "music/anul mela.mp3",
+	img: "img/img5.jpg",
+	singer: "VA"
+  }
 ];
 
 
